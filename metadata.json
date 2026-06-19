@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Workflow Designer",
+  "description": "A premium, production-ready SaaS environment to design, configure, chain, and execute AI agents visually with live Google Gemini API. Features interactive node structures, run logs, real-time token metrics, and templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
